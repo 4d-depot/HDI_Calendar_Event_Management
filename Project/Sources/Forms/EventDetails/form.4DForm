@@ -1,0 +1,206 @@
+{
+	"$4d": {
+		"version": "1",
+		"kind": "form"
+	},
+	"windowSizingX": "fixed",
+	"windowSizingY": "fixed",
+	"windowMinWidth": 0,
+	"windowMinHeight": 0,
+	"windowMaxWidth": 32767,
+	"windowMaxHeight": 32767,
+	"rightMargin": 20,
+	"bottomMargin": 20,
+	"events": [
+		"onLoad"
+	],
+	"windowTitle": "window title",
+	"destination": "detailScreen",
+	"pages": [
+		{
+			"objects": {}
+		},
+		{
+			"objects": {
+				"Text": {
+					"type": "text",
+					"text": "Title:",
+					"top": 32,
+					"left": 15,
+					"width": 101,
+					"height": 15
+				},
+				"Text1": {
+					"type": "text",
+					"text": "Start:",
+					"top": 115,
+					"left": 15,
+					"width": 101,
+					"height": 15
+				},
+				"Text2": {
+					"type": "text",
+					"text": "End:",
+					"top": 151,
+					"left": 15,
+					"width": 99,
+					"height": 15
+				},
+				"Input": {
+					"type": "input",
+					"left": 94,
+					"top": 31,
+					"width": 541,
+					"height": 16,
+					"dataSource": "Form:C1466.subject"
+				},
+				"startdate": {
+					"type": "subform",
+					"top": 109,
+					"left": 94,
+					"width": 138,
+					"height": 25,
+					"dataSource": "Form:C1466.start.date",
+					"dataSourceTypeHint": "date",
+					"detailForm": "DateEntry",
+					"hideFocusRing": true,
+					"deletableInList": false,
+					"doubleClickInRowAction": "editSubrecord",
+					"doubleClickInEmptyAreaAction": "addSubrecord",
+					"selectionMode": "multiple",
+					"printFrame": "variable",
+					"method": "ObjectMethods/startdate.4dm",
+					"events": [
+						"onLoad"
+					],
+					"focusable": true
+				},
+				"starttime": {
+					"type": "subform",
+					"top": 110,
+					"left": 242,
+					"width": 220,
+					"height": 25,
+					"dataSource": "Form:C1466.start.time",
+					"dataSourceTypeHint": "time",
+					"detailForm": "TimeEntry_AM",
+					"focusable": false,
+					"hideFocusRing": true,
+					"deletableInList": false,
+					"doubleClickInRowAction": "editSubrecord",
+					"doubleClickInEmptyAreaAction": "addSubrecord",
+					"selectionMode": "multiple",
+					"printFrame": "variable",
+					"method": "ObjectMethods/starttime.4dm",
+					"events": [
+						"onLoad"
+					]
+				},
+				"enddate": {
+					"type": "subform",
+					"top": 145,
+					"left": 94,
+					"width": 138,
+					"height": 25,
+					"dataSource": "Form:C1466.end.date",
+					"dataSourceTypeHint": "date",
+					"detailForm": "DateEntry",
+					"hideFocusRing": true,
+					"deletableInList": false,
+					"doubleClickInRowAction": "editSubrecord",
+					"doubleClickInEmptyAreaAction": "addSubrecord",
+					"selectionMode": "multiple",
+					"printFrame": "variable",
+					"method": "ObjectMethods/enddate.4dm",
+					"events": [
+						"onLoad"
+					],
+					"focusable": true
+				},
+				"endtime": {
+					"type": "subform",
+					"top": 146,
+					"left": 242,
+					"width": 220,
+					"height": 25,
+					"dataSource": "Form:C1466.end.time",
+					"dataSourceTypeHint": "time",
+					"detailForm": "TimeEntry_AM",
+					"focusable": false,
+					"hideFocusRing": true,
+					"deletableInList": false,
+					"doubleClickInRowAction": "editSubrecord",
+					"doubleClickInEmptyAreaAction": "addSubrecord",
+					"selectionMode": "multiple",
+					"printFrame": "variable",
+					"method": "ObjectMethods/endtime.4dm",
+					"events": [
+						"onLoad"
+					]
+				},
+				"Check Box": {
+					"type": "checkbox",
+					"text": "All day",
+					"top": 68,
+					"left": 15,
+					"width": 178,
+					"height": 26,
+					"events": [
+						"onClick"
+					],
+					"dataSource": "Form:C1466.allDay",
+					"method": "ObjectMethods/Check Box.4dm"
+				},
+				"BtnOK": {
+					"type": "button",
+					"top": 188,
+					"left": 533,
+					"width": 102,
+					"height": 20,
+					"sizingX": "fixed",
+					"sizingY": "fixed",
+					"tooltip": {
+						"$ref": "/SOURCES/tips.json#/OK"
+					},
+					"shortcutKey": "[Enter]",
+					"text": "OK",
+					"class": "Buttons_13",
+					"defaultButton": true,
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/BtnOK.4dm"
+				},
+				"BtnOK1": {
+					"type": "button",
+					"top": 188,
+					"left": 418,
+					"width": 102,
+					"height": 20,
+					"sizingX": "fixed",
+					"sizingY": "fixed",
+					"tooltip": {
+						"$ref": "/SOURCES/tips.json#/OK"
+					},
+					"shortcutKey": "[Enter]",
+					"text": "Cancel",
+					"class": "Buttons_13",
+					"defaultButton": true,
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/BtnOK1.4dm"
+				}
+			}
+		}
+	],
+	"geometryStamp": 91,
+	"editor": {
+		"activeView": "View 1",
+		"defaultView": "View 1",
+		"views": {
+			"View 1": {}
+		}
+	},
+	"method": "method.4dm"
+}

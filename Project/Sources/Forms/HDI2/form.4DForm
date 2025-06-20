@@ -1,0 +1,277 @@
+{
+	"destination": "detailScreen",
+	"windowMinWidth": 800,
+	"windowMaxWidth": 32000,
+	"windowMinHeight": 540,
+	"windowMaxHeight": 32000,
+	"width": 960,
+	"height": 640,
+	"menuBar": "Menu Bar #1",
+	"markerHeader": 15,
+	"markerBody": 200,
+	"markerBreak": 220,
+	"markerFooter": 240,
+	"events": [
+		"onLoad",
+		"onCloseBox"
+	],
+	"method": "method.4dm",
+	"pageFormat": {
+		"paperName": "A4",
+		"paperWidth": "842pt",
+		"paperHeight": "595pt"
+	},
+	"pages": [
+		{
+			"objects": {
+				"Tab Control": {
+					"type": "tab",
+					"top": 20,
+					"left": 20,
+					"width": 920,
+					"height": 575,
+					"sizingX": "grow",
+					"sizingY": "grow",
+					"dataSource": "objTabs",
+					"dataSourceTypeHint": "object",
+					"action": "gotoPage",
+					"events": [
+						"onClick"
+					]
+				},
+				"BtnOK": {
+					"type": "button",
+					"top": 600,
+					"left": 838,
+					"width": 102,
+					"height": 20,
+					"sizingX": "move",
+					"sizingY": "move",
+					"tooltip": {
+						"$ref": "/SOURCES/tips.json#/OK"
+					},
+					"shortcutKey": "[Enter]",
+					"text": "OK",
+					"class": "Buttons_13",
+					"defaultButton": true,
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/BtnOK.4dm"
+				},
+				"Line": {
+					"type": "line",
+					"top": 0,
+					"left": 480,
+					"height": 640,
+					"visibility": "hidden",
+					"sizingY": "grow",
+					"stroke": "#800080",
+					"strokeDashArray": "1 1"
+				}
+			}
+		},
+		{
+			"objects": {
+				"information": {
+					"type": "input",
+					"top": 80,
+					"left": 80,
+					"width": 800,
+					"height": 480,
+					"sizingX": "grow",
+					"sizingY": "grow",
+					"dataSource": "Infos[0].Description",
+					"focusable": false,
+					"fill": "transparent",
+					"borderStyle": "none",
+					"enterable": false,
+					"styledText": true,
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "custom",
+					"events": [
+						"onDataChange"
+					],
+					"class": "description"
+				}
+			}
+		},
+		{
+			"objects": {
+				"information2": {
+					"type": "input",
+					"top": 51,
+					"left": 40,
+					"width": 766,
+					"height": 40,
+					"sizingY": "grow",
+					"dataSource": "Infos[1].Description",
+					"focusable": false,
+					"fill": "transparent",
+					"borderStyle": "none",
+					"enterable": false,
+					"styledText": true,
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "custom",
+					"events": [
+						"onDataChange"
+					],
+					"class": "description"
+				},
+				"ConnectBt": {
+					"type": "button",
+					"text": "Sign in   ",
+					"top": 49,
+					"left": 821,
+					"width": 106,
+					"height": 44,
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/ConnectBt.4dm",
+					"style": "custom",
+					"fontWeight": "bold",
+					"fontSize": 14,
+					"stroke": "#5E5E5E",
+					"borderStyle": "solid",
+					"textAlign": "right",
+					"imageHugsTitle": false
+				},
+				"Static Picture1": {
+					"type": "picture",
+					"top": 58,
+					"left": 826,
+					"width": 28,
+					"height": 26,
+					"picture": "/RESOURCES/Microsoft.png"
+				},
+				"OfficeWebArea": {
+					"type": "webArea",
+					"left": 29,
+					"top": 113,
+					"width": 903,
+					"height": 462,
+					"webEngine": "embedded",
+					"methodsAccessibility": "all",
+					"method": "ObjectMethods/OfficeWebArea.4dm",
+					"sizingX": "grow",
+					"sizingY": "grow"
+				},
+				"SpinnerMicrosoft": {
+					"type": "spinner",
+					"left": 821,
+					"top": 43,
+					"width": 106,
+					"height": 57,
+					"visibility": "hidden",
+					"dataSource": "Form:C1466.spinner"
+				},
+				"Trace": {
+					"type": "checkbox",
+					"text": "Trace",
+					"top": 575,
+					"left": 29,
+					"width": 117,
+					"height": 18,
+					"events": [
+						"onClick"
+					],
+					"dataSource": "Form:C1466.trace",
+					"sizingY": "move"
+				}
+			}
+		},
+		{
+			"objects": {
+				"Button1": {
+					"type": "button",
+					"text": "",
+					"top": 49,
+					"left": 743,
+					"width": 184,
+					"height": 44,
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/Button1.4dm",
+					"style": "regular",
+					"icon": "/RESOURCES/btn_google_signin_light_normal_web.png",
+					"customBackgroundPicture": "/RESOURCES/btn_google_signin_light_focus_web.png",
+					"imageHugsTitle": false,
+					"textPlacement": "center"
+				},
+				"SpinnerGoogle": {
+					"type": "spinner",
+					"left": 808,
+					"top": 52,
+					"width": 51,
+					"height": 38,
+					"visibility": "hidden",
+					"dataSource": "Form:C1466.spinner"
+				},
+				"information1": {
+					"type": "input",
+					"top": 51,
+					"left": 40,
+					"width": 766,
+					"height": 40,
+					"sizingY": "grow",
+					"dataSource": "Infos[2].Description",
+					"focusable": false,
+					"fill": "transparent",
+					"borderStyle": "none",
+					"enterable": false,
+					"styledText": true,
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "custom",
+					"events": [
+						"onDataChange"
+					],
+					"class": "description"
+				},
+				"GoogleWebArea": {
+					"type": "webArea",
+					"left": 29,
+					"top": 113,
+					"width": 903,
+					"height": 462,
+					"webEngine": "embedded",
+					"methodsAccessibility": "all",
+					"method": "ObjectMethods/GoogleWebArea.4dm",
+					"sizingX": "grow",
+					"sizingY": "grow"
+				},
+				"Trace1": {
+					"type": "checkbox",
+					"text": "Trace",
+					"top": 575,
+					"left": 29,
+					"width": 117,
+					"height": 18,
+					"events": [
+						"onClick"
+					],
+					"dataSource": "Form:C1466.trace",
+					"sizingY": "move"
+				}
+			}
+		}
+	],
+	"$4d": {
+		"version": "1",
+		"kind": "form"
+	},
+	"editor": {
+		"activeView": "View 1",
+		"defaultView": "View 1",
+		"views": {
+			"View 1": {}
+		}
+	},
+	"geometryStamp": 396,
+	"windowSizingX": "variable",
+	"windowSizingY": "variable"
+}

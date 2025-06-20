@@ -1,0 +1,1420 @@
+﻿[
+    {
+        "MicrosoftTimeZone": "Dateline Standard Time",
+        "IANA": [
+            "Etc/GMT+12"
+        ],
+        "SDT": "-12:00",
+        "DST": "-12:00"
+    },
+    {
+        "MicrosoftTimeZone": "UTC-11",
+        "IANA": [
+            "Etc/GMT+11",
+            "Pacific/Midway",
+            "Pacific/Niue",
+            "Pacific/Pago_Pago"
+        ],
+        "SDT": "-11:00",
+        "DST": "-11:00"
+    },
+    {
+        "MicrosoftTimeZone": "Aleutian Standard Time",
+        "IANA": [
+            "America/Adak"
+        ],
+        "SDT": "-10:00",
+        "DST": "-09:00"
+    },
+    {
+        "MicrosoftTimeZone": "Hawaiian Standard Time",
+        "IANA": [
+            "Etc/GMT+10",
+            "Pacific/Honolulu",
+            "Pacific/Rarotonga",
+            "Pacific/Tahiti"
+        ],
+        "SDT": "-10:00",
+        "DST": "-10:00"
+    },
+    {
+        "MicrosoftTimeZone": "Marquesas Standard Time",
+        "IANA": [
+            "Pacific/Marquesas"
+        ],
+        "SDT": "-09:30",
+        "DST": "-09:30"
+    },
+    {
+        "MicrosoftTimeZone": "Alaskan Standard Time",
+        "IANA": [
+            "America/Anchorage",
+            "America/Juneau",
+            "America/Metlakatla",
+            "America/Nome",
+            "America/Sitka",
+            "America/Yakutat"
+        ],
+        "SDT": "-09:00",
+        "DST": "-08:00"
+    },
+    {
+        "MicrosoftTimeZone": "UTC-09",
+        "IANA": [
+            "Etc/GMT+9",
+            "Pacific/Gambier"
+        ],
+        "SDT": "-09:00",
+        "DST": "-09:00"
+    },
+    {
+        "MicrosoftTimeZone": "Pacific Standard Time (Mexico)",
+        "IANA": [
+            "America/Tijuana"
+        ],
+        "SDT": "-08:00",
+        "DST": "-07:00"
+    },
+    {
+        "MicrosoftTimeZone": "UTC-08",
+        "IANA": [
+            "Etc/GMT+8",
+            "Pacific/Pitcairn"
+        ],
+        "SDT": "-08:00",
+        "DST": "-08:00"
+    },
+    {
+        "MicrosoftTimeZone": "Pacific Standard Time",
+        "IANA": [
+            "America/Los_Angeles",
+            "America/Vancouver"
+        ],
+        "SDT": "-08:00",
+        "DST": "-07:00"
+    },
+    {
+        "MicrosoftTimeZone": "US Mountain Standard Time",
+        "IANA": [
+            "America/Creston",
+            "America/Dawson_Creek",
+            "America/Fort_Nelson",
+            "America/Hermosillo",
+            "America/Phoenix",
+            "Etc/GMT+7"
+        ],
+        "SDT": "-07:00",
+        "DST": "-07:00"
+    },
+    {
+        "MicrosoftTimeZone": "Mountain Standard Time (Mexico)",
+        "IANA": [
+            "America/Mazatlan"
+        ],
+        "SDT": "-07:00",
+        "DST": "-07:00"
+    },
+    {
+        "MicrosoftTimeZone": "Mountain Standard Time",
+        "IANA": [
+            "America/Boise",
+            "America/Cambridge_Bay",
+            "America/Ciudad_Juarez",
+            "America/Denver",
+            "America/Edmonton",
+            "America/Inuvik"
+        ],
+        "SDT": "-07:00",
+        "DST": "-06:00"
+    },
+    {
+        "MicrosoftTimeZone": "Yukon Standard Time",
+        "IANA": [
+            "America/Dawson",
+            "America/Whitehorse"
+        ],
+        "SDT": "-07:00",
+        "DST": "-07:00"
+    },
+    {
+        "MicrosoftTimeZone": "Central America Standard Time",
+        "IANA": [
+            "America/Belize",
+            "America/Costa_Rica",
+            "America/El_Salvador",
+            "America/Guatemala",
+            "America/Managua",
+            "America/Tegucigalpa",
+            "Etc/GMT+6",
+            "Pacific/Galapagos"
+        ],
+        "SDT": "-06:00",
+        "DST": "-06:00"
+    },
+    {
+        "MicrosoftTimeZone": "Central Standard Time",
+        "IANA": [
+            "America/Chicago",
+            "America/Indiana/Knox",
+            "America/Indiana/Tell_City",
+            "America/Matamoros",
+            "America/Menominee",
+            "America/North_Dakota/Beulah",
+            "America/North_Dakota/Center",
+            "America/North_Dakota/New_Salem",
+            "America/Ojinaga",
+            "America/Rankin_Inlet",
+            "America/Resolute",
+            "America/Winnipeg"
+        ],
+        "SDT": "-06:00",
+        "DST": "-05:00"
+    },
+    {
+        "MicrosoftTimeZone": "Easter Island Standard Time",
+        "IANA": [
+            "Pacific/Easter"
+        ],
+        "SDT": "-06:00",
+        "DST": "-05:00"
+    },
+    {
+        "MicrosoftTimeZone": "Central Standard Time (Mexico)",
+        "IANA": [
+            "America/Bahia_Banderas",
+            "America/Chihuahua",
+            "America/Merida",
+            "America/Mexico_City",
+            "America/Monterrey"
+        ],
+        "SDT": "-06:00",
+        "DST": "-06:00"
+    },
+    {
+        "MicrosoftTimeZone": "Canada Central Standard Time",
+        "IANA": [
+            "America/Regina",
+            "America/Swift_Current"
+        ],
+        "SDT": "-06:00",
+        "DST": "-06:00"
+    },
+    {
+        "MicrosoftTimeZone": "SA Pacific Standard Time",
+        "IANA": [
+            "America/Bogota",
+            "America/Cayman",
+            "America/Coral_Harbour",
+            "America/Eirunepe",
+            "America/Guayaquil",
+            "America/Jamaica",
+            "America/Lima",
+            "America/Panama",
+            "America/Rio_Branco",
+            "Etc/GMT+5"
+        ],
+        "SDT": "-05:00",
+        "DST": "-05:00"
+    },
+    {
+        "MicrosoftTimeZone": "Eastern Standard Time (Mexico)",
+        "IANA": [
+            "America/Cancun"
+        ],
+        "SDT": "-05:00",
+        "DST": "-05:00"
+    },
+    {
+        "MicrosoftTimeZone": "Eastern Standard Time",
+        "IANA": [
+            "America/Detroit",
+            "America/Indiana/Petersburg",
+            "America/Indiana/Vincennes",
+            "America/Indiana/Winamac",
+            "America/Iqaluit",
+            "America/Kentucky/Monticello",
+            "America/Louisville",
+            "America/Nassau",
+            "America/New_York",
+            "America/Toronto"
+        ],
+        "SDT": "-05:00",
+        "DST": "-04:00"
+    },
+    {
+        "MicrosoftTimeZone": "Haiti Standard Time",
+        "IANA": [
+            "America/Port-au-Prince"
+        ],
+        "SDT": "-05:00",
+        "DST": "-04:00"
+    },
+    {
+        "MicrosoftTimeZone": "Cuba Standard Time",
+        "IANA": [
+            "America/Havana"
+        ],
+        "SDT": "-05:00",
+        "DST": "-04:00"
+    },
+    {
+        "MicrosoftTimeZone": "US Eastern Standard Time",
+        "IANA": [
+            "America/Indiana/Marengo",
+            "America/Indiana/Vevay",
+            "America/Indianapolis"
+        ],
+        "SDT": "-05:00",
+        "DST": "-04:00"
+    },
+    {
+        "MicrosoftTimeZone": "Turks And Caicos Standard Time",
+        "IANA": [
+            "America/Grand_Turk"
+        ],
+        "SDT": "-05:00",
+        "DST": "-04:00"
+    },
+    {
+        "MicrosoftTimeZone": "Paraguay Standard Time",
+        "IANA": [
+            "America/Asuncion"
+        ],
+        "SDT": "-03:00",
+        "DST": "-03:00"
+    },
+    {
+        "MicrosoftTimeZone": "Atlantic Standard Time",
+        "IANA": [
+            "America/Glace_Bay",
+            "America/Goose_Bay",
+            "America/Halifax",
+            "America/Moncton",
+            "America/Thule",
+            "Atlantic/Bermuda"
+        ],
+        "SDT": "-04:00",
+        "DST": "-03:00"
+    },
+    {
+        "MicrosoftTimeZone": "Venezuela Standard Time",
+        "IANA": [
+            "America/Caracas"
+        ],
+        "SDT": "-04:00",
+        "DST": "-04:00"
+    },
+    {
+        "MicrosoftTimeZone": "Central Brazilian Standard Time",
+        "IANA": [
+            "America/Campo_Grande",
+            "America/Cuiaba"
+        ],
+        "SDT": "-04:00",
+        "DST": "-04:00"
+    },
+    {
+        "MicrosoftTimeZone": "SA Western Standard Time",
+        "IANA": [
+            "America/Anguilla",
+            "America/Antigua",
+            "America/Aruba",
+            "America/Barbados",
+            "America/Blanc-Sablon",
+            "America/Boa_Vista",
+            "America/Curacao",
+            "America/Dominica",
+            "America/Grenada",
+            "America/Guadeloupe",
+            "America/Guyana",
+            "America/Kralendijk",
+            "America/La_Paz",
+            "America/Lower_Princes",
+            "America/Manaus",
+            "America/Marigot",
+            "America/Martinique",
+            "America/Montserrat",
+            "America/Port_of_Spain",
+            "America/Porto_Velho",
+            "America/Puerto_Rico",
+            "America/Santo_Domingo",
+            "America/St_Barthelemy",
+            "America/St_Kitts",
+            "America/St_Lucia",
+            "America/St_Thomas",
+            "America/St_Vincent",
+            "America/Tortola",
+            "Etc/GMT+4"
+        ],
+        "SDT": "-04:00",
+        "DST": "-04:00"
+    },
+    {
+        "MicrosoftTimeZone": "Pacific SA Standard Time",
+        "IANA": [
+            "America/Santiago"
+        ],
+        "SDT": "-04:00",
+        "DST": "-03:00"
+    },
+    {
+        "MicrosoftTimeZone": "Newfoundland Standard Time",
+        "IANA": [
+            "America/St_Johns"
+        ],
+        "SDT": "-03:30",
+        "DST": "-02:30"
+    },
+    {
+        "MicrosoftTimeZone": "Tocantins Standard Time",
+        "IANA": [
+            "America/Araguaina"
+        ],
+        "SDT": "-03:00",
+        "DST": "-03:00"
+    },
+    {
+        "MicrosoftTimeZone": "E. South America Standard Time",
+        "IANA": [
+            "America/Sao_Paulo"
+        ],
+        "SDT": "-03:00",
+        "DST": "-03:00"
+    },
+    {
+        "MicrosoftTimeZone": "SA Eastern Standard Time",
+        "IANA": [
+            "America/Belem",
+            "America/Cayenne",
+            "America/Fortaleza",
+            "America/Maceio",
+            "America/Paramaribo",
+            "America/Recife",
+            "America/Santarem",
+            "Antarctica/Palmer",
+            "Antarctica/Rothera",
+            "Atlantic/Stanley",
+            "Etc/GMT+3"
+        ],
+        "SDT": "-03:00",
+        "DST": "-03:00"
+    },
+    {
+        "MicrosoftTimeZone": "Argentina Standard Time",
+        "IANA": [
+            "America/Argentina/La_Rioja",
+            "America/Argentina/Rio_Gallegos",
+            "America/Argentina/Salta",
+            "America/Argentina/San_Juan",
+            "America/Argentina/San_Luis",
+            "America/Argentina/Tucuman",
+            "America/Argentina/Ushuaia",
+            "America/Buenos_Aires",
+            "America/Catamarca",
+            "America/Cordoba",
+            "America/Jujuy",
+            "America/Mendoza"
+        ],
+        "SDT": "-03:00",
+        "DST": "-03:00"
+    },
+    {
+        "MicrosoftTimeZone": "Greenland Standard Time",
+        "IANA": [
+            "America/Godthab"
+        ],
+        "SDT": "-02:00",
+        "DST": "-01:00"
+    },
+    {
+        "MicrosoftTimeZone": "Montevideo Standard Time",
+        "IANA": [
+            "America/Montevideo"
+        ],
+        "SDT": "-03:00",
+        "DST": "-03:00"
+    },
+    {
+        "MicrosoftTimeZone": "Magallanes Standard Time",
+        "IANA": [
+            "America/Coyhaique",
+            "America/Punta_Arenas"
+        ],
+        "SDT": "-03:00",
+        "DST": "-03:00"
+    },
+    {
+        "MicrosoftTimeZone": "Saint Pierre Standard Time",
+        "IANA": [
+            "America/Miquelon"
+        ],
+        "SDT": "-03:00",
+        "DST": "-02:00"
+    },
+    {
+        "MicrosoftTimeZone": "Bahia Standard Time",
+        "IANA": [
+            "America/Bahia"
+        ],
+        "SDT": "-03:00",
+        "DST": "-03:00"
+    },
+    {
+        "MicrosoftTimeZone": "UTC-02",
+        "IANA": [
+            "America/Noronha",
+            "Atlantic/South_Georgia",
+            "Etc/GMT+2"
+        ],
+        "SDT": "-02:00",
+        "DST": "-02:00"
+    },
+    {
+        "MicrosoftTimeZone": "Azores Standard Time",
+        "IANA": [
+            "America/Scoresbysund",
+            "Atlantic/Azores"
+        ],
+        "SDT": "-02:00",
+        "DST": "-01:00"
+    },
+    {
+        "MicrosoftTimeZone": "Cape Verde Standard Time",
+        "IANA": [
+            "Atlantic/Cape_Verde",
+            "Etc/GMT+1"
+        ],
+        "SDT": "-01:00",
+        "DST": "-01:00"
+    },
+    {
+        "MicrosoftTimeZone": "UTC",
+        "IANA": [
+            "Etc/GMT",
+            "Etc/UTC"
+        ],
+        "SDT": "+00:00",
+        "DST": "+00:00"
+    },
+    {
+        "MicrosoftTimeZone": "GMT Standard Time",
+        "IANA": [
+            "Atlantic/Canary",
+            "Atlantic/Faeroe",
+            "Atlantic/Madeira",
+            "Europe/Dublin",
+            "Europe/Guernsey",
+            "Europe/Isle_of_Man",
+            "Europe/Jersey",
+            "Europe/Lisbon",
+            "Europe/London"
+        ],
+        "SDT": "+00:00",
+        "DST": "+01:00"
+    },
+    {
+        "MicrosoftTimeZone": "Greenwich Standard Time",
+        "IANA": [
+            "Africa/Abidjan",
+            "Africa/Accra",
+            "Africa/Bamako",
+            "Africa/Banjul",
+            "Africa/Bissau",
+            "Africa/Conakry",
+            "Africa/Dakar",
+            "Africa/Freetown",
+            "Africa/Lome",
+            "Africa/Monrovia",
+            "Africa/Nouakchott",
+            "Africa/Ouagadougou",
+            "America/Danmarkshavn",
+            "Atlantic/Reykjavik",
+            "Atlantic/St_Helena"
+        ],
+        "SDT": "+00:00",
+        "DST": "+00:00"
+    },
+    {
+        "MicrosoftTimeZone": "Sao Tome Standard Time",
+        "IANA": [
+            "Africa/Sao_Tome"
+        ],
+        "SDT": "+00:00",
+        "DST": "+00:00"
+    },
+    {
+        "MicrosoftTimeZone": "Morocco Standard Time",
+        "IANA": [
+            "Africa/Casablanca",
+            "Africa/El_Aaiun"
+        ],
+        "SDT": "+01:00",
+        "DST": "+00:00"
+    },
+    {
+        "MicrosoftTimeZone": "W. Europe Standard Time",
+        "IANA": [
+            "Arctic/Longyearbyen",
+            "Europe/Amsterdam",
+            "Europe/Andorra",
+            "Europe/Berlin",
+            "Europe/Busingen",
+            "Europe/Gibraltar",
+            "Europe/Luxembourg",
+            "Europe/Malta",
+            "Europe/Monaco",
+            "Europe/Oslo",
+            "Europe/Rome",
+            "Europe/San_Marino",
+            "Europe/Stockholm",
+            "Europe/Vaduz",
+            "Europe/Vatican",
+            "Europe/Vienna",
+            "Europe/Zurich"
+        ],
+        "SDT": "+01:00",
+        "DST": "+02:00"
+    },
+    {
+        "MicrosoftTimeZone": "Central Europe Standard Time",
+        "IANA": [
+            "Europe/Belgrade",
+            "Europe/Bratislava",
+            "Europe/Budapest",
+            "Europe/Ljubljana",
+            "Europe/Podgorica",
+            "Europe/Prague",
+            "Europe/Tirane"
+        ],
+        "SDT": "+01:00",
+        "DST": "+02:00"
+    },
+    {
+        "MicrosoftTimeZone": "Romance Standard Time",
+        "IANA": [
+            "Europe/Paris",
+            "Africa/Ceuta",
+            "Europe/Brussels",
+            "Europe/Copenhagen",
+            "Europe/Madrid"            
+        ],
+        "SDT": "+01:00",
+        "DST": "+02:00"
+    },
+    {
+        "MicrosoftTimeZone": "Central European Standard Time",
+        "IANA": [
+            "Europe/Sarajevo",
+            "Europe/Skopje",
+            "Europe/Warsaw",
+            "Europe/Zagreb"
+        ],
+        "SDT": "+01:00",
+        "DST": "+02:00"
+    },
+    {
+        "MicrosoftTimeZone": "W. Central Africa Standard Time",
+        "IANA": [
+            "Africa/Algiers",
+            "Africa/Bangui",
+            "Africa/Brazzaville",
+            "Africa/Douala",
+            "Africa/Kinshasa",
+            "Africa/Lagos",
+            "Africa/Libreville",
+            "Africa/Luanda",
+            "Africa/Malabo",
+            "Africa/Ndjamena",
+            "Africa/Niamey",
+            "Africa/Porto-Novo",
+            "Africa/Tunis",
+            "Etc/GMT-1"
+        ],
+        "SDT": "+01:00",
+        "DST": "+01:00"
+    },
+    {
+        "MicrosoftTimeZone": "Jordan Standard Time",
+        "IANA": [
+            "Asia/Amman"
+        ],
+        "SDT": "+03:00",
+        "DST": "+03:00"
+    },
+    {
+        "MicrosoftTimeZone": "GTB Standard Time",
+        "IANA": [
+            "Asia/Famagusta",
+            "Asia/Nicosia",
+            "Europe/Athens",
+            "Europe/Bucharest"
+        ],
+        "SDT": "+02:00",
+        "DST": "+03:00"
+    },
+    {
+        "MicrosoftTimeZone": "Middle East Standard Time",
+        "IANA": [
+            "Asia/Beirut"
+        ],
+        "SDT": "+02:00",
+        "DST": "+03:00"
+    },
+    {
+        "MicrosoftTimeZone": "Egypt Standard Time",
+        "IANA": [
+            "Africa/Cairo"
+        ],
+        "SDT": "+02:00",
+        "DST": "+03:00"
+    },
+    {
+        "MicrosoftTimeZone": "E. Europe Standard Time",
+        "IANA": [
+            "Europe/Chisinau"
+        ],
+        "SDT": "+02:00",
+        "DST": "+03:00"
+    },
+    {
+        "MicrosoftTimeZone": "Syria Standard Time",
+        "IANA": [
+            "Asia/Damascus"
+        ],
+        "SDT": "+03:00",
+        "DST": "+03:00"
+    },
+    {
+        "MicrosoftTimeZone": "West Bank Standard Time",
+        "IANA": [
+            "Asia/Gaza",
+            "Asia/Hebron"
+        ],
+        "SDT": "+02:00",
+        "DST": "+03:00"
+    },
+    {
+        "MicrosoftTimeZone": "South Africa Standard Time",
+        "IANA": [
+            "Africa/Blantyre",
+            "Africa/Bujumbura",
+            "Africa/Gaborone",
+            "Africa/Harare",
+            "Africa/Johannesburg",
+            "Africa/Kigali",
+            "Africa/Lubumbashi",
+            "Africa/Lusaka",
+            "Africa/Maputo",
+            "Africa/Maseru",
+            "Africa/Mbabane",
+            "Etc/GMT-2"
+        ],
+        "SDT": "+02:00",
+        "DST": "+02:00"
+    },
+    {
+        "MicrosoftTimeZone": "FLE Standard Time",
+        "IANA": [
+            "Europe/Helsinki",
+            "Europe/Kiev",
+            "Europe/Mariehamn",
+            "Europe/Riga",
+            "Europe/Sofia",
+            "Europe/Tallinn",
+            "Europe/Vilnius"
+        ],
+        "SDT": "+02:00",
+        "DST": "+03:00"
+    },
+    {
+        "MicrosoftTimeZone": "Israel Standard Time",
+        "IANA": [
+            "Asia/Jerusalem"
+        ],
+        "SDT": "+02:00",
+        "DST": "+03:00"
+    },
+    {
+        "MicrosoftTimeZone": "South Sudan Standard Time",
+        "IANA": [
+            "Africa/Juba"
+        ],
+        "SDT": "+02:00",
+        "DST": "+02:00"
+    },
+    {
+        "MicrosoftTimeZone": "Kaliningrad Standard Time",
+        "IANA": [
+            "Europe/Kaliningrad"
+        ],
+        "SDT": "+02:00",
+        "DST": "+02:00"
+    },
+    {
+        "MicrosoftTimeZone": "Sudan Standard Time",
+        "IANA": [
+            "Africa/Khartoum"
+        ],
+        "SDT": "+02:00",
+        "DST": "+02:00"
+    },
+    {
+        "MicrosoftTimeZone": "Libya Standard Time",
+        "IANA": [
+            "Africa/Tripoli"
+        ],
+        "SDT": "+02:00",
+        "DST": "+02:00"
+    },
+    {
+        "MicrosoftTimeZone": "Namibia Standard Time",
+        "IANA": [
+            "Africa/Windhoek"
+        ],
+        "SDT": "+02:00",
+        "DST": "+02:00"
+    },
+    {
+        "MicrosoftTimeZone": "Arabic Standard Time",
+        "IANA": [
+            "Asia/Baghdad"
+        ],
+        "SDT": "+03:00",
+        "DST": "+03:00"
+    },
+    {
+        "MicrosoftTimeZone": "Turkey Standard Time",
+        "IANA": [
+            "Europe/Istanbul"
+        ],
+        "SDT": "+03:00",
+        "DST": "+03:00"
+    },
+    {
+        "MicrosoftTimeZone": "Arab Standard Time",
+        "IANA": [
+            "Asia/Aden",
+            "Asia/Bahrain",
+            "Asia/Kuwait",
+            "Asia/Qatar",
+            "Asia/Riyadh"
+        ],
+        "SDT": "+03:00",
+        "DST": "+03:00"
+    },
+    {
+        "MicrosoftTimeZone": "Belarus Standard Time",
+        "IANA": [
+            "Europe/Minsk"
+        ],
+        "SDT": "+03:00",
+        "DST": "+03:00"
+    },
+    {
+        "MicrosoftTimeZone": "Russian Standard Time",
+        "IANA": [
+            "Europe/Kirov",
+            "Europe/Moscow",
+            "Europe/Simferopol"
+        ],
+        "SDT": "+03:00",
+        "DST": "+03:00"
+    },
+    {
+        "MicrosoftTimeZone": "E. Africa Standard Time",
+        "IANA": [
+            "Africa/Addis_Ababa",
+            "Africa/Asmera",
+            "Africa/Dar_es_Salaam",
+            "Africa/Djibouti",
+            "Africa/Kampala",
+            "Africa/Mogadishu",
+            "Africa/Nairobi",
+            "Antarctica/Syowa",
+            "Etc/GMT-3",
+            "Indian/Antananarivo",
+            "Indian/Comoro",
+            "Indian/Mayotte"
+        ],
+        "SDT": "+03:00",
+        "DST": "+03:00"
+    },
+    {
+        "MicrosoftTimeZone": "Iran Standard Time",
+        "IANA": [
+            "Asia/Tehran"
+        ],
+        "SDT": "+03:30",
+        "DST": "+03:30"
+    },
+    {
+        "MicrosoftTimeZone": "Arabian Standard Time",
+        "IANA": [
+            "Asia/Dubai",
+            "Asia/Muscat",
+            "Etc/GMT-4"
+        ],
+        "SDT": "+04:00",
+        "DST": "+04:00"
+    },
+    {
+        "MicrosoftTimeZone": "Astrakhan Standard Time",
+        "IANA": [
+            "Europe/Astrakhan",
+            "Europe/Ulyanovsk"
+        ],
+        "SDT": "+04:00",
+        "DST": "+04:00"
+    },
+    {
+        "MicrosoftTimeZone": "Azerbaijan Standard Time",
+        "IANA": [
+            "Asia/Baku"
+        ],
+        "SDT": "+04:00",
+        "DST": "+04:00"
+    },
+    {
+        "MicrosoftTimeZone": "Russia Time Zone 3",
+        "IANA": [
+            "Europe/Samara"
+        ],
+        "SDT": "+04:00",
+        "DST": "+04:00"
+    },
+    {
+        "MicrosoftTimeZone": "Mauritius Standard Time",
+        "IANA": [
+            "Indian/Mahe",
+            "Indian/Mauritius",
+            "Indian/Reunion"
+        ],
+        "SDT": "+04:00",
+        "DST": "+04:00"
+    },
+    {
+        "MicrosoftTimeZone": "Saratov Standard Time",
+        "IANA": [
+            "Europe/Saratov"
+        ],
+        "SDT": "+04:00",
+        "DST": "+04:00"
+    },
+    {
+        "MicrosoftTimeZone": "Georgian Standard Time",
+        "IANA": [
+            "Asia/Tbilisi"
+        ],
+        "SDT": "+04:00",
+        "DST": "+04:00"
+    },
+    {
+        "MicrosoftTimeZone": "Volgograd Standard Time",
+        "IANA": [
+            "Europe/Volgograd"
+        ],
+        "SDT": "+03:00",
+        "DST": "+03:00"
+    },
+    {
+        "MicrosoftTimeZone": "Caucasus Standard Time",
+        "IANA": [
+            "Asia/Yerevan"
+        ],
+        "SDT": "+04:00",
+        "DST": "+04:00"
+    },
+    {
+        "MicrosoftTimeZone": "Afghanistan Standard Time",
+        "IANA": [
+            "Asia/Kabul"
+        ],
+        "SDT": "+04:30",
+        "DST": "+04:30"
+    },
+    {
+        "MicrosoftTimeZone": "West Asia Standard Time",
+        "IANA": [
+            "Antarctica/Mawson",
+            "Asia/Almaty",
+            "Asia/Aqtau",
+            "Asia/Aqtobe",
+            "Asia/Ashgabat",
+            "Asia/Atyrau",
+            "Asia/Dushanbe",
+            "Asia/Oral",
+            "Asia/Qostanay",
+            "Asia/Samarkand",
+            "Asia/Tashkent",
+            "Etc/GMT-5",
+            "Indian/Kerguelen",
+            "Indian/Maldives"
+        ],
+        "SDT": "+05:00",
+        "DST": "+05:00"
+    },
+    {
+        "MicrosoftTimeZone": "Ekaterinburg Standard Time",
+        "IANA": [
+            "Asia/Yekaterinburg"
+        ],
+        "SDT": "+05:00",
+        "DST": "+05:00"
+    },
+    {
+        "MicrosoftTimeZone": "Pakistan Standard Time",
+        "IANA": [
+            "Asia/Karachi"
+        ],
+        "SDT": "+05:00",
+        "DST": "+05:00"
+    },
+    {
+        "MicrosoftTimeZone": "Qyzylorda Standard Time",
+        "IANA": [
+            "Asia/Qyzylorda"
+        ],
+        "SDT": "+05:00",
+        "DST": "+05:00"
+    },
+    {
+        "MicrosoftTimeZone": "India Standard Time",
+        "IANA": [
+            "Asia/Calcutta"
+        ],
+        "SDT": "+05:30",
+        "DST": "+05:30"
+    },
+    {
+        "MicrosoftTimeZone": "Sri Lanka Standard Time",
+        "IANA": [
+            "Asia/Colombo"
+        ],
+        "SDT": "+05:30",
+        "DST": "+05:30"
+    },
+    {
+        "MicrosoftTimeZone": "Nepal Standard Time",
+        "IANA": [
+            "Asia/Katmandu"
+        ],
+        "SDT": "+05:45",
+        "DST": "+05:45"
+    },
+    {
+        "MicrosoftTimeZone": "Central Asia Standard Time",
+        "IANA": [
+            "Antarctica/Vostok",
+            "Asia/Bishkek",
+            "Asia/Urumqi",
+            "Etc/GMT-6",
+            "Indian/Chagos"
+        ],
+        "SDT": "+05:00",
+        "DST": "+05:00"
+    },
+    {
+        "MicrosoftTimeZone": "Bangladesh Standard Time",
+        "IANA": [
+            "Asia/Dhaka",
+            "Asia/Thimphu"
+        ],
+        "SDT": "+06:00",
+        "DST": "+06:00"
+    },
+    {
+        "MicrosoftTimeZone": "Omsk Standard Time",
+        "IANA": [
+            "Asia/Omsk"
+        ],
+        "SDT": "+06:00",
+        "DST": "+06:00"
+    },
+    {
+        "MicrosoftTimeZone": "Myanmar Standard Time",
+        "IANA": [
+            "Asia/Rangoon",
+            "Indian/Cocos"
+        ],
+        "SDT": "+06:30",
+        "DST": "+06:30"
+    },
+    {
+        "MicrosoftTimeZone": "SE Asia Standard Time",
+        "IANA": [
+            "Antarctica/Davis",
+            "Asia/Bangkok",
+            "Asia/Jakarta",
+            "Asia/Phnom_Penh",
+            "Asia/Pontianak",
+            "Asia/Saigon",
+            "Asia/Vientiane",
+            "Etc/GMT-7",
+            "Indian/Christmas"
+        ],
+        "SDT": "+07:00",
+        "DST": "+07:00"
+    },
+    {
+        "MicrosoftTimeZone": "Altai Standard Time",
+        "IANA": [
+            "Asia/Barnaul"
+        ],
+        "SDT": "+07:00",
+        "DST": "+07:00"
+    },
+    {
+        "MicrosoftTimeZone": "W. Mongolia Standard Time",
+        "IANA": [
+            "Asia/Hovd"
+        ],
+        "SDT": "+07:00",
+        "DST": "+07:00"
+    },
+    {
+        "MicrosoftTimeZone": "North Asia Standard Time",
+        "IANA": [
+            "Asia/Krasnoyarsk",
+            "Asia/Novokuznetsk"
+        ],
+        "SDT": "+07:00",
+        "DST": "+07:00"
+    },
+    {
+        "MicrosoftTimeZone": "N. Central Asia Standard Time",
+        "IANA": [
+            "Asia/Novosibirsk"
+        ],
+        "SDT": "+07:00",
+        "DST": "+07:00"
+    },
+    {
+        "MicrosoftTimeZone": "Tomsk Standard Time",
+        "IANA": [
+            "Asia/Tomsk"
+        ],
+        "SDT": "+07:00",
+        "DST": "+07:00"
+    },
+    {
+        "MicrosoftTimeZone": "China Standard Time",
+        "IANA": [
+            "Asia/Hong_Kong",
+            "Asia/Macau",
+            "Asia/Shanghai"
+        ],
+        "SDT": "+08:00",
+        "DST": "+08:00"
+    },
+    {
+        "MicrosoftTimeZone": "North Asia East Standard Time",
+        "IANA": [
+            "Asia/Irkutsk"
+        ],
+        "SDT": "+08:00",
+        "DST": "+08:00"
+    },
+    {
+        "MicrosoftTimeZone": "Singapore Standard Time",
+        "IANA": [
+            "Asia/Brunei",
+            "Asia/Kuala_Lumpur",
+            "Asia/Kuching",
+            "Asia/Makassar",
+            "Asia/Manila",
+            "Asia/Singapore",
+            "Etc/GMT-8"
+        ],
+        "SDT": "+08:00",
+        "DST": "+08:00"
+    },
+    {
+        "MicrosoftTimeZone": "W. Australia Standard Time",
+        "IANA": [
+            "Australia/Perth"
+        ],
+        "SDT": "+08:00",
+        "DST": "+08:00"
+    },
+    {
+        "MicrosoftTimeZone": "Taipei Standard Time",
+        "IANA": [
+            "Asia/Taipei"
+        ],
+        "SDT": "+08:00",
+        "DST": "+08:00"
+    },
+    {
+        "MicrosoftTimeZone": "Ulaanbaatar Standard Time",
+        "IANA": [
+            "Asia/Ulaanbaatar"
+        ],
+        "SDT": "+08:00",
+        "DST": "+08:00"
+    },
+    {
+        "MicrosoftTimeZone": "Aus Central W. Standard Time",
+        "IANA": [
+            "Australia/Eucla"
+        ],
+        "SDT": "+08:45",
+        "DST": "+08:45"
+    },
+    {
+        "MicrosoftTimeZone": "Transbaikal Standard Time",
+        "IANA": [
+            "Asia/Chita"
+        ],
+        "SDT": "+09:00",
+        "DST": "+09:00"
+    },
+    {
+        "MicrosoftTimeZone": "Tokyo Standard Time",
+        "IANA": [
+            "Asia/Dili",
+            "Asia/Jayapura",
+            "Asia/Tokyo",
+            "Etc/GMT-9",
+            "Pacific/Palau"
+        ],
+        "SDT": "+09:00",
+        "DST": "+09:00"
+    },
+    {
+        "MicrosoftTimeZone": "North Korea Standard Time",
+        "IANA": [
+            "Asia/Pyongyang"
+        ],
+        "SDT": "+09:00",
+        "DST": "+09:00"
+    },
+    {
+        "MicrosoftTimeZone": "Korea Standard Time",
+        "IANA": [
+            "Asia/Seoul"
+        ],
+        "SDT": "+09:00",
+        "DST": "+09:00"
+    },
+    {
+        "MicrosoftTimeZone": "Yakutsk Standard Time",
+        "IANA": [
+            "Asia/Khandyga",
+            "Asia/Yakutsk"
+        ],
+        "SDT": "+09:00",
+        "DST": "+09:00"
+    },
+    {
+        "MicrosoftTimeZone": "Cen. Australia Standard Time",
+        "IANA": [
+            "Australia/Adelaide",
+            "Australia/Broken_Hill"
+        ],
+        "SDT": "+09:30",
+        "DST": "+10:30"
+    },
+    {
+        "MicrosoftTimeZone": "AUS Central Standard Time",
+        "IANA": [
+            "Australia/Darwin"
+        ],
+        "SDT": "+09:30",
+        "DST": "+09:30"
+    },
+    {
+        "MicrosoftTimeZone": "E. Australia Standard Time",
+        "IANA": [
+            "Australia/Brisbane",
+            "Australia/Lindeman"
+        ],
+        "SDT": "+10:00",
+        "DST": "+10:00"
+    },
+    {
+        "MicrosoftTimeZone": "AUS Eastern Standard Time",
+        "IANA": [
+            "Australia/Melbourne",
+            "Australia/Sydney"
+        ],
+        "SDT": "+10:00",
+        "DST": "+11:00"
+    },
+    {
+        "MicrosoftTimeZone": "West Pacific Standard Time",
+        "IANA": [
+            "Antarctica/DumontDUrville",
+            "Etc/GMT-10",
+            "Pacific/Guam",
+            "Pacific/Port_Moresby",
+            "Pacific/Saipan",
+            "Pacific/Truk"
+        ],
+        "SDT": "+10:00",
+        "DST": "+10:00"
+    },
+    {
+        "MicrosoftTimeZone": "Tasmania Standard Time",
+        "IANA": [
+            "Antarctica/Macquarie",
+            "Australia/Hobart"
+        ],
+        "SDT": "+10:00",
+        "DST": "+11:00"
+    },
+    {
+        "MicrosoftTimeZone": "Vladivostok Standard Time",
+        "IANA": [
+            "Asia/Ust-Nera",
+            "Asia/Vladivostok"
+        ],
+        "SDT": "+10:00",
+        "DST": "+10:00"
+    },
+    {
+        "MicrosoftTimeZone": "Lord Howe Standard Time",
+        "IANA": [
+            "Australia/Lord_Howe"
+        ],
+        "SDT": "+10:30",
+        "DST": "+11:00"
+    },
+    {
+        "MicrosoftTimeZone": "Bougainville Standard Time",
+        "IANA": [
+            "Pacific/Bougainville"
+        ],
+        "SDT": "+11:00",
+        "DST": "+11:00"
+    },
+    {
+        "MicrosoftTimeZone": "Russia Time Zone 10",
+        "IANA": [
+            "Asia/Srednekolymsk"
+        ],
+        "SDT": "+11:00",
+        "DST": "+11:00"
+    },
+    {
+        "MicrosoftTimeZone": "Magadan Standard Time",
+        "IANA": [
+            "Asia/Magadan"
+        ],
+        "SDT": "+11:00",
+        "DST": "+11:00"
+    },
+    {
+        "MicrosoftTimeZone": "Norfolk Standard Time",
+        "IANA": [
+            "Pacific/Norfolk"
+        ],
+        "SDT": "+11:00",
+        "DST": "+12:00"
+    },
+    {
+        "MicrosoftTimeZone": "Sakhalin Standard Time",
+        "IANA": [
+            "Asia/Sakhalin"
+        ],
+        "SDT": "+11:00",
+        "DST": "+11:00"
+    },
+    {
+        "MicrosoftTimeZone": "Central Pacific Standard Time",
+        "IANA": [
+            "Antarctica/Casey",
+            "Etc/GMT-11",
+            "Pacific/Efate",
+            "Pacific/Guadalcanal",
+            "Pacific/Kosrae",
+            "Pacific/Noumea",
+            "Pacific/Ponape"
+        ],
+        "SDT": "+08:00",
+        "DST": "+08:00"
+    },
+    {
+        "MicrosoftTimeZone": "Russia Time Zone 11",
+        "IANA": [
+            "Asia/Anadyr",
+            "Asia/Kamchatka"
+        ],
+        "SDT": "+12:00",
+        "DST": "+12:00"
+    },
+    {
+        "MicrosoftTimeZone": "New Zealand Standard Time",
+        "IANA": [
+            "Antarctica/McMurdo",
+            "Pacific/Auckland"
+        ],
+        "SDT": "+12:00",
+        "DST": "+13:00"
+    },
+    {
+        "MicrosoftTimeZone": "UTC+12",
+        "IANA": [
+            "Etc/GMT-12",
+            "Pacific/Funafuti",
+            "Pacific/Kwajalein",
+            "Pacific/Majuro",
+            "Pacific/Nauru",
+            "Pacific/Tarawa",
+            "Pacific/Wake",
+            "Pacific/Wallis"
+        ],
+        "SDT": "+12:00",
+        "DST": "+12:00"
+    },
+    {
+        "MicrosoftTimeZone": "Fiji Standard Time",
+        "IANA": [
+            "Pacific/Fiji"
+        ],
+        "SDT": "+12:00",
+        "DST": "+12:00"
+    },
+    {
+        "MicrosoftTimeZone": "Chatham Islands Standard Time",
+        "IANA": [
+            "Pacific/Chatham"
+        ],
+        "SDT": "+12:45",
+        "DST": "+13:45"
+    },
+    {
+        "MicrosoftTimeZone": "UTC+13",
+        "IANA": [
+            "Etc/GMT-13",
+            "Pacific/Enderbury",
+            "Pacific/Fakaofo"
+        ],
+        "SDT": "+13:00",
+        "DST": "+13:00"
+    },
+    {
+        "MicrosoftTimeZone": "Tonga Standard Time",
+        "IANA": [
+            "Pacific/Tongatapu"
+        ],
+        "SDT": "+13:00",
+        "DST": "+13:00"
+    },
+    {
+        "MicrosoftTimeZone": "Samoa Standard Time",
+        "IANA": [
+            "Pacific/Apia"
+        ],
+        "SDT": "+13:00",
+        "DST": "+13:00"
+    },
+    {
+        "MicrosoftTimeZone": "Line Islands Standard Time",
+        "IANA": [
+            "Etc/GMT-14",
+            "Pacific/Kiritimati"
+        ],
+        "SDT": "+14:00",
+        "DST": "+14:00"
+    }
+]
